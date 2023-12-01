@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/Reinmic/Porfolio/blob/991a186b11dfcc079c887d7e38fc4b563cc80c2c/Curriculum%20Vitae%20-%20Marcel%20Torres%20Amaro.pdf"><strong>Ver Currículum Vitae</strong></a>&nbsp;&nbsp;&nbsp;
   <br>
-  <a href="www.linkedin.com/in/marcel-torres-amaro-bb0753133"><strong>Perfil de LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/marcel-torres-amaro-bb0753133/"><strong>Perfil de LinkedIn</strong></a>
   <br><br><br>
 </p>
 
